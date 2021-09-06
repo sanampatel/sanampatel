@@ -13,7 +13,7 @@ My name is Sanam Patel, I am a Full-Stack Web Developer from Toronto, Canada.
 ### What's I'm doing right now!
 
 - :computer:  I’m currently working on https://codingloop.com/
-- :book:  I’m currently learning ReactJS, Pandas, :panda_face: Numpy
+- :book:  I’m currently learning ReactJS, Pandas :panda_face:, Numpy
 - :raising_hand:  I’m looking to collaborate on StaticPress.io
 - :fearful:  I’m looking for help with bash scripting
 - :money_with_wings:  Ask me about Personal finance, StockMarket or anything in between
