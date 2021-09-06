@@ -7,7 +7,7 @@ My name is Sanam Patel, I am a Full-Stack Web Developer from Toronto, Canada.
 - Backend: PHP, Python, NodeJs
 - Frontend: JavaScript, VueJS, Tailwind CSS, Bootstrap CSS, jQuery
 - Tools: Redis, MySQL
-- Framework: Laravel
+- Framework: Laravel :heart_eyes:
 - DevOps: AWS, Serverless
 
 ### What's I'm doing right now!
