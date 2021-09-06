@@ -3,7 +3,7 @@
 ## About Me!
 - :man: Sanam Patel, 
 - :billed_cap: Full-Stack Web Developer
-- :round_pushpin: Toronto, ON, Canada
+- :round_pushpin: Toronto, ON, Canada :canada:
 
 ## My Tech-Stack
 
