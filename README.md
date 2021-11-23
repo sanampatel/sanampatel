@@ -9,7 +9,7 @@
 
 - Tech Stack : TALL Stack (Tailwind, Alpine.js, Laravel and Livewire)
 - Backend: PHP, Python, NodeJs
-- Frontend: Alpine.js, VueJS, Tailwind, UI Kit, JavaScript, jQuery
+- Frontend: Alpine.js, Vue.js, Tailwind, UI Kit, JavaScript, jQuery
 - Tools : Redis, MySQL :toolbox:
 - Framework: Laravel :heart_eyes:
 - DevOps: AWS, Serverless, Github Actions, CI/CD
