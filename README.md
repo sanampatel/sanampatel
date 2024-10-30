@@ -8,16 +8,16 @@
 ## 💻 My Tech-Stack
 
 - Tech Stack : TALL Stack (Tailwind, Alpine.js, Laravel and Livewire) :toolbox:
-- Backend: PHP, Python, NodeJs :gear:
-- Frontend: Alpine.js, Vue.js, Tailwind, UI Kit, JavaScript, jQuery :art:
+- Backend: PHP, Python, Node.js, Go :gear:
+- Frontend: Alpine.js, React.js, Vue.js, Tailwind, UI Kit, JavaScript, TypeScript, jQuery :art:
 - Tools : Redis, MySQL :screwdriver:
-- Framework: Laravel :heart_eyes:
-- DevOps: AWS, Serverless, Github Actions, CI/CD :hammer_and_wrench:
+- Framework: Laravel, Lumen, Symfony, Next.js, Nuxt.js :heart_eyes:
+- DevOps: AWS, DigitalOcean, Serverless, Github Actions, BitBucket Pipelines, CI/CD :hammer_and_wrench:
  
 ## What's I'm up to!
 
 - :computer:  I’m currently working on https://codingloop.com/
-- :book:  I’m currently learning ReactJS, Pandas :panda_face:, Numpy, Go Lang.
+- :book:  I’m currently learning Pandas :panda_face:, Numpy, Rust.
 - :raising_hand:  I’m looking to collaborate on StaticPress.io.
 - :fearful:  I’m looking for help with heavy regex work.
 - :money_with_wings:  Ask me about Personal finance, StockMarket or anything in between.
